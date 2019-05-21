@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+img {
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+.decrease {
+    color: red;
+}
+
+.increase {
+    color: green;
+}
+
+.display-4 { /*bootstrap display-4 class override*/
+    font-size: 28px;
+}
